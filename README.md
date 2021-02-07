@@ -7,6 +7,6 @@
 
  Repository created during class live
 
- Essa linha eu adicionei diretamente no site!!
+ Essa linha foi adicionada diretamente no site!!
  
  That line was added directly on site
